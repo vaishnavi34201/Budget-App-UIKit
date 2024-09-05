@@ -13,5 +13,5 @@ In Scene Delegate
         return container
         }()
 pass persistantContainer to the BudgetcotegorytableViewcontroller.
-# instead of BudgetcotegorytableViewcontroller use navigation container as a root view container.
+# instead of BudgetcotegorytableViewcontroller use navigation container in thatBudgetcotegorytableViewcontroller as a root view container.
 ***********************************************************************
